@@ -1,0 +1,98 @@
+/*P01_Reza_Joshi CSS Styling Page, follows AOT color scheme*/
+
+/*background color*/
+body {
+    background-color: #ece4bf;       
+    font-family: Arial, sans-serif;
+    color: #1e1a1a;
+    margin: 40px;
+    padding: 20px;
+}
+
+h1 {
+    color: #771010;                  
+    font-size: 2.5em;
+    text-align: center;
+    border-bottom: 3px solid #243c2d;
+    padding-bottom: 6px;
+}
+
+h2, h3 {
+    color: #453425;                  
+    font-weight: bold;
+}
+
+p {
+    margin: 15px 0;
+    padding: 5px;
+}
+
+a {
+    color: #832a2a;                  
+    font-weight: bold;
+    text-decoration: none;
+}
+
+ul, ol {
+    margin-left: 40px;
+}
+
+li {
+    margin: 8px 0;
+}
+
+
+/*Tables*/
+table {
+    width: 90%;
+    border-collapse: collapse;
+    margin: 20px;
+    background-color: #f4f0e1;       
+    border: 2px solid #3e5c49;       
+}
+
+
+th, td {
+    border: 1px solid #3e5c49;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #556b4d;       
+    color: #fff;
+}
+
+td a {
+    color: #8b2e2e;
+}
+
+img {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 3px solid #3e5c49;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 3px solid #3e5c49;
+}
+
+footer {
+    margin-top: 40px;
+    border-top: 2px solid #3e5c49;
+    text-align: center;
+    padding-top: 10px;
+    color: #4f3b2b;
+}
+
+section {
+    margin-bottom: 30px;
+}
